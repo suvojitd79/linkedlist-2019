@@ -5,6 +5,3 @@ Remove Duplicates from Sorted List
 Remove Nth Node from List End	
 Remove Duplicates from Sorted List II	
 Length of longest palindromic list	
-Remove Duplicates from Sorted List	
-Remove Duplicates from Sorted List II	
-
